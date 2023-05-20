@@ -25,8 +25,9 @@ Install my-project with npm
 To deploy this project run
 
 ```bash
-  Deployement Link
-
-  https://githubs-issue-page.netlify.app
-
+  Deployement Link ✌🤞
 ```
+```bash
+ https://githubs-issue-page.netlify.app
+```
+https://githubs-issue-page.netlify.app
